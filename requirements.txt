@@ -7,3 +7,4 @@ wikipedia
 pypdf
 llmx
 langchain_experimental
+sentence_transformers
