@@ -1,28 +1,53 @@
-NAT: Núcleo de Apoio Técnico
+### Informações sobre o NAT: Núcleo de Apoio Técnico
 
 Coordenadora-Geral: Marcela Cristina Ozório
 Coordenador-Adjunto: Bernardo Fiterman Albano
 
-O Núcleo de Apoio Técnico (NAT) foi criado em 2012. Foi instituído no âmbito do Ministério Público do Estado do Acre por meio do Ato n.º 25, de 13 de setembro de 2012, da Procuradoria-Geral de Justiça, com o escopo de prestar apoio de inteligência e segurança institucional, técnico-científico e operacional, por meio de servidores habilitados em áreas de conhecimento específico, aos órgãos de execução e, em especial, ao Grupo de Atuação Especial no Combate ao Crime Organizado (GAECO).
+O Núcleo de Apoio Técnico (NAT) é um órgão do MPAC (Ministério Público do Acre) e foi criado em 2012. 
+Foi instituído no âmbito do Ministério Público do Estado do Acre por meio do Ato n.º 25, de 13 de setembro de 2012, da Procuradoria-Geral de Justiça, com o escopo de prestar apoio de inteligência e segurança institucional, técnico-científico e operacional, por meio de servidores habilitados em áreas de conhecimento específico, aos órgãos de execução e, em especial, ao Grupo de Atuação Especial no Combate ao Crime Organizado (GAECO). 
+Mais informações sobre o NAT podem ser encontradas no site https://nat.mpac.mp.br
 
 Além da função acima referida, o NAT também ficou responsável pelo gerenciamento e funcionamento do Sistema de Investigação de Movimentação Bancária (SIMBA) e do Laboratório de Tecnologia contra Lavagem de Dinheiro (LAB-LD).
-
 Posteriormente, o NAT foi regulado pela nova Lei Orgânica do Ministério Público do Estado do Acre (Lei Complementar n.º 291, de 29 de dezembro de 2014), sendo previsto como órgão administrativo auxiliar de apoio técnico especializado de membros e órgãos do Ministério Público, vinculado à Procuradoria Geral de Justiça.
 
 Desde a sua criação, o NAT vem se mostrando essencial para o desenvolvimento das atividades finalísticas da instituição.
-
 Prova disso é que no ano de 2019, o NAT atendeu diversas demandas de baixa, média e alta complexidade, em processos e/ou procedimentos judiciais eextrajudiciais, além de dar suporte ao Grupo de Atuação Especial de Combate ao Crime Organizado – GAECO na condução de operações importantes e de suas atividades diárias.
-
 Muitos casos atendidos pelo NAT têm atuação intersetorial e interdisciplinar, principalmente em processos complexos, onde todos os setores atuam de forma integrada para atender as demandas apresentadas e continuam gerando informações durante todo processo de investigação.
 
 O gerenciamento dos pedidos de apoio feitos ao NAT se dá pelo sistema SIGEP (Sistema de Gerenciamento Eletrônico de Documentos), que consiste emuma ferramenta destinada ao controle da tramitação em base digital de documentos e pedidos de apoio que aportam no NAT, além de prever a possibilidade de acompanhamento dos projetos e metas elencadas pelo núcleo como sendo prioritários para implementação. Trata-se de solução Web, acessível a partir de qualquer navegador, tendo como principal objetivo registrar tarefas em processos de desenvolvimento de sistema.
-
 Por meio do SIGEP, os membros solicitantes poderão acompanhar a tramitação do seu pedido de apoio no NAT, uma vez que ficarão registradas todas as etapas dos trabalhos executados e documentos anexados, de modo a facilitar a localização dos processos e o posicionamento tanto do demandante quanto da Coordenação.
-
 O acesso para registro e acompanhamento de pedidos de apoio ao NAT pode ser feito por meio do endereço: https://sigep.mpac.mp.br
-
-O site do NAT pode ser acessado por meio do endereço: https://nat.mpac.mp.br
 
 Principais setores do NAT: Coordenação de Desenvolvimento de Sistemas, Observatório Criminal, LAB, Observatório de Políticas Públicas, Técinco-Científica
 
 Os coordenadores do NAT são Marcela Cristina Ozório como Coordenadora-Geral e Bernardo Fiterman Albano, como Coordenador-Adjunto
+
+### Informações sobre o OPP: Observatório De Políticas Públicas
+
+O Projeto Observatório de Políticas Públicas, do Núcleo de Apoio Técnico-NAT, se propõe a monitorar os orçamentos públicos e a aplicação dos recursos, de modo a se verificar a consonância entre o que foi planejado com o executado, assim como se o resultado almejado foi alcançado e promoveu a transformação social que era buscada. Cumpre-nos salientar que serão usados para fins de análise instrumentos formais, como o Plano Plurianual, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual, entre outros. 
+
+ São objetivos do Observatório produzir e disponibilizar aos membros do MPAC, dados, informações e conhecimentos oportunos sobre os procedimentos da administração pública; estabelecer um sistema de informação confiável, flexível e escalável, que permita subsidiar estudos, investigações e procedimentos a cargo dos membros do MPAC. A proposta do observatório é abranger as áreas da saúde, educação, meio ambiente, segurança pública e políticas de assistência social.
+
+A criação do Observatório objetiva ser uma ferramenta de monitoramento permanente e uma fonte de consulta para sociedade civil.
+
+Sabemos que a Administração Pública assume o papel de principal indutor do investimento no Estado, sendo imprescindível para alavancar a economia local. É responsável por 43,02% dos empregos formais gerados em 2021 e participou com 40,76% no Valor Adicionado (VA) do PIB em 2020.
+
+O Relatório do Conselho da OCDE (2017) demonstrou que de 10 a 30% dos recursos aplicados em projetos de construção pelo setor público, podem ser perdidos por má gestão, imperícia ou corrupção.
+
+Assim, propomos analisar o resultado das ações governamentais e seus impactos na sociedade, traduzidos nos instrumentos de planejamento, na performance de seus Indicadores e na execução de programas e projetos estratégicos.
+
+A aferição dos dados se inicia com o estudo do Plano Plurianual (PPA), no qual são verificados os valores e os percentuais alocados nos eixos estratégicos, nos programas temáticos e nas Iniciativas. Cria-se, dessa forma, uma gama de informações consolidadas em painéis que pautam o trabalho ministerial e sua atuação em rede de forma mais efetiva no combate a improbidade e a inconformidade administrativa:
+
+- Painel 1 Eixos e Programas Temáticos do PPA Inicial – Previsto e Revisado.
+- Painel 2 Eixos e Programas Temáticos do PPA Revisado, Expressos na Lei Orçamentária Anual (LOA) – Pago e Percentual Executado no Período.
+- Painel 3 Indicadores, Resultados e Entregas – Verificação Qualitativa e Quantitativa das Metas Acordadas com a Sociedade.
+- Painel 4 Carteira de Projetos – Captado, Internalizado, Executado, Saldo e a Liberar.
+- Painel 5 Informações Fiscais e Orçamentárias.
+- Painel 6 Acompanhamento de Programas Sociais Executados no Estado. 
+
+Mais informações sobre o OPP no site https://nat.mpac.mp.br/posts/category/observatorio-politicas-publicas/
+
+
+### Retina
+O RETINA é uma ferramenta gerenciadora de conteúdo, desenvolvida a partir do armazenamento de dados/informações relacionados às organizações criminosas e a seus integrantes.
+A ferramenta possibilita aos usuários (observadores) o cadastro de fatos formais relacionados a atuação de facções/ORCRIM e a posterior consulta por meio de filtros relacionados aos integrantes (observados), assim como a geração de análises de correlação e de vínculo entre pessoas, entre fatos e entre pessoas e fatos.
